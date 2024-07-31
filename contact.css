@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contact-heading {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}  
+
+.contact-sub{
+    margin-top: 50px;
+}
+
+  .container-fluid{
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   
+  }
+  #map{
+    margin-bottom: -4px;
+  }
+
+@media (max-width:768px){
+    .contact-heading {
+        margin-top: 60px;
+    }  
+    
+    .contact-sub{
+        margin-top: 50px;
+    }
+}
